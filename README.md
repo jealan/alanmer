@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alan Mercado</h1>
 <h3 align="center">I am a passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **Vue,NestJs and NextJs**
-
-- 💬 Ask me about **Javascript, Typescript, ReactJs, Angular, NodeJs, ExpressJs, Django, Python, Java, Html, Css, MySql, SqlServer, MariaDB y MongoDB. Entre otras.**
+- 💬 Ask me about **Javascript, Typescript, ReactJs, Angular, NodeJs, ExpressJs, Django, Python, Html, Css, MySql, SqlServer, MariaDB y MongoDB. Entre otras.**
 
 - 📫 How to reach me **alanmercadooam@gmail.com**
 
